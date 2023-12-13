@@ -1345,6 +1345,9 @@ SingleFile can be launched from the command line by running it into a (headless)
 https://github.com/gitleaks/gitleaks
 Scan git repos (or files) for secrets using regex and entropy
 
+https://github.com/techjacker/repo-security-scanner
+Scan git repos for secrets
+
 https://github.com/glmcdona/Process-Dump
 Windows tool for dumping malware PE files from memory back to disk for analysis.
 
